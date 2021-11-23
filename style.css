@@ -1,0 +1,20 @@
+.mainBox{
+    display: flex;
+    margin: 20px;
+    padding: 30px;
+}
+.card{
+    margin: 40px;
+    cursor: pointer;
+    
+}
+
+
+.butn1{
+    height: 30px;
+    width: 150px;
+}
+.heading{
+    color: blue;
+    text-decoration: underline;
+}
